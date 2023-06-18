@@ -1,0 +1,13 @@
+.add-task {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  list-style: none;
+}
